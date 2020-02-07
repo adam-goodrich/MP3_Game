@@ -2,7 +2,7 @@ Here is a music game I made.
 
 One of my first projects.
 
-Pick a folder with MP# music files. The more files in the folder the better.
+Pick a folder with MP3 music files. The more files in the folder the better.
 
 A file will play.
 
