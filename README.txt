@@ -1,0 +1,13 @@
+Here is a music game I made.
+
+One of my first projects.
+
+Pick a folder with MP# music files. The more files in the folder the better.
+
+A file will play.
+
+You will be given three options.
+
+The correct song and two incorrect songs located in the music folder.
+
+Pick the correct song and get a point!
