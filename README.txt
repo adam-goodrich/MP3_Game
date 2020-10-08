@@ -1,6 +1,4 @@
-Here is a music game I made.
-
-One of my first projects.
+Here is a music game I made played in the terminal.
 
 Pick a folder with MP3 music files. The more files in the folder the better.
 
